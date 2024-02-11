@@ -1,0 +1,9 @@
+# Environment
+.env 
+
+
+# Development
+venv/
+*.swp
+*.sqlite3
+*.db
